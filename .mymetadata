@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="webFrame"
+  id="myeclipse.1406948643642"
+  context-root="/webFrame"
+  j2ee-spec="6.0"
+  archive="webFrame.war">
+  <attributes>
+    <attribute name="webrootdir" value="src/main/webapp" />
+  </attributes>
+</project-module>
+
