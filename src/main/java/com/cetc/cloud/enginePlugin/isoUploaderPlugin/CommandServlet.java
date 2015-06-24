@@ -22,6 +22,7 @@ public class CommandServlet extends HttpServlet {
 		doPost(request, response);
 	}
 
+	
 	@Override
 	public void doPost(HttpServletRequest request, HttpServletResponse response)
 			throws ServletException, IOException {

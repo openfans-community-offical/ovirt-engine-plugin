@@ -15,6 +15,10 @@ public class HandleVmTemplateUploder {
 
 	}
 
+	public void test(){
+		
+	}
+	
 	public String vmTemplateUploder(HttpServletRequest request) {
 		FileUtils fu = new FileUtils();
 		String fileName = fu.fileUpload(request);
